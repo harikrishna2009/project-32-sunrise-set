@@ -52,7 +52,7 @@ async function getBackgroundImg(){
 
     
     //fetch datetime from responseJSON
-     datetime = responseJSON.datetime
+     var datetime = responseJSON.datetime
     
     
 
